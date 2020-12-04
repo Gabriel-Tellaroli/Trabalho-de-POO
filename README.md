@@ -1,6 +1,11 @@
 # Trabalho-de-POO
 Eduardo Ventura Neves 
+
 Esther Siqueira 
+
 Gabriel Macario 
-Pablo Relvas 
+
+Pablo Relvas
+
 Gabriel Tellaroli Ramos
+
